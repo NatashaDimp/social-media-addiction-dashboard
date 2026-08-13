@@ -7,6 +7,8 @@ An interactive Excel dashboard analyzing social media usage, addiction risk, sle
 This project analyzes a dataset of 10,000 social media users to understand patterns in social media usage and their relationship with addiction risk and sleep behavior.
 
 The project focuses on transforming raw user data into meaningful business insights through data cleaning, calculated fields, KPI development, PivotTables, and interactive dashboard visualizations.
+[Social Media Addiciton Dashboard]
+(Dashboard%20preview.png)
 
 ## 🎯 Business Questions
 
